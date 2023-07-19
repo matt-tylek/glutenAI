@@ -1,0 +1,12 @@
+names:
+- Menu-Items
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: menu-item-gluten-free
+  url: https://universe.roboflow.com/matt-tylek-ijkga/menu-item-gluten-free/dataset/3
+  version: 3
+  workspace: matt-tylek-ijkga
+test: test/images
+train: train/images
+val: valid/images
